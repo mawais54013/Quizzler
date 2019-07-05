@@ -22,6 +22,7 @@ After the app is loaded it will display the page above and after clicking on an 
 
 # Wireframe Layout 
 Below the storyboard for this project is shown: 
+
 <img src="Quizzler/Images.xcassets/Screen2.png" width="200" height="400" />
 
 # Code-Snippets
