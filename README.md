@@ -5,7 +5,7 @@ Standard quiz app built on IOS using ProgressHUD.
 
 Simple page app image below:
 
-![index](Quizzler/Images.xcassets/Screen1.png)
+<img src="Quizzler/Images.xcassets/Screen1.png" width="200" height="400" />
 
 # Getting Started 
 
@@ -22,7 +22,7 @@ After the app is loaded it will display the page above and after clicking on an 
 
 # Wireframe Layout 
 Below the storyboard for this project is shown: 
-![index](Quizzler/Images.xcassets/Screen2.png)
+<img src="Quizzler/Images.xcassets/Screen2.png" width="200" height="400" />
 
 # Code-Snippets
 
