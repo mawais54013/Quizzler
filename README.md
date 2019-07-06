@@ -3,7 +3,7 @@
 This simple IOS app is a quiz with 13 unique questions about the world. The objective is to answer all the questions correctly and retake the quiz if you missed one or a few. 
 Standard quiz app built on IOS using ProgressHUD. 
 
-Simple page app image below:
+Single page app image below:
 
 <img src="Quizzler/Images.xcassets/Screen1.png" width="200" height="400" />
 
